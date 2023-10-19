@@ -1,0 +1,5 @@
+Scan Number,MS Level,Retention Time,Precursor M/Z,Precursor Charge,Precursor Scan,Activation Method
+3932,2,104.8345,715.9675,16,3923,ETD
+3936,2,104.9966,715.9053,16,3928,ETD
+3951,2,105.2938,818.2479,14,3943,ETD
+3961,2,105.6645,763.8991,15,3953,ETD
